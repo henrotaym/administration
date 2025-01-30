@@ -8,7 +8,7 @@
 -- Generation Time: 2025-01-27 19:54:08.964594
 -- -------------------------------------------------------------
 
-DROP TABLE `app`.`users`;
+DROP TABLE IF EXISTS `app`.`users`;
 
 
 CREATE TABLE `users` (
